@@ -9,5 +9,6 @@
         <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/animate.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
     </head>
