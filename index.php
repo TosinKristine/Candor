@@ -148,7 +148,7 @@
                                         <div class="testimonial-2">
                                             <div class="boxed bg--white box-shadow">
                                                 <p>
-                                                    &ldquo;Partner were instrumental in laying the foundation for our companie's expansion. Their expert advice and knowledge made our growth transition phase far less bothersome than it otherwise would have been. Particular kudos goes to Kelly who was unbelievably patient and communicable with our new staff.&rdquo;
+                                                    &ldquo;Candor was instrumental in laying the foundation for our companie's expansion. Their expert advice and knowledge made our growth transition phase far less bothersome than it otherwise would have been. Particular kudos goes to Kelly who was unbelievably patient and communicable with our new staff.&rdquo;
                                                 </p>
                                                 <h4>
                                                     &mdash; Luke Vibert
@@ -164,7 +164,7 @@
                                         <div class="testimonial-2">
                                             <div class="boxed bg--white box-shadow">
                                                 <p>
-                                                    &ldquo;Partner were instrumental in laying the foundation for our companie's expansion. Their expert advice and knowledge made our growth transition phase far less bothersome than it otherwise would have been. Particular kudos goes to Kelly who was unbelievably patient and communicable with our new staff.&rdquo;
+                                                    &ldquo;Candor was instrumental in laying the foundation for our companie's expansion. Their expert advice and knowledge made our growth transition phase far less bothersome than it otherwise would have been. Particular kudos goes to Kelly who was unbelievably patient and communicable with our new staff.&rdquo;
                                                 </p>
                                                 <h4>
                                                     &mdash; Amy Thompson
@@ -191,7 +191,7 @@
                     <div class="row">
                         <h3 class="text-line-after">Case Studies</h3>
                         <div class="icon-title">
-                            <span class="h6">Your Candor</span>
+                            <span class="h6">Your Partner</span>
                             <i class="icon-linegraph icon"></i>
                             <span class="h6">For Results</span>
                         </div>
@@ -200,7 +200,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <p class="lead">
-                                We've helped over 350 businesses Australia-wide to better manage their
+                                We've helped over 350 businesses worldwide to better manage their
                                 <br class="hidden-xs hidden-sm" /> financial and administrational workflow.
                             </p>
                         </div>
@@ -216,7 +216,7 @@
                                         <br class="hidden-xs hidden-sm" /> her fledgling fashion brand into over
                                         <br class="hidden-xs hidden-sm" /> 30 outlets nation-wide.
                                     </p>
-                                    <a class="link-underline" href="case-study-single.html">Read More</a>
+                                    <a class="link-underline" href="case-study-detail.php">Read More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -234,7 +234,7 @@
                                         <br class="hidden-xs hidden-sm" /> much of a numbers man and adapted
                                         <br class="hidden-xs" /> to me perfectly!&rdquo;
                                     </p>
-                                    <a class="link-underline" href="case-study-single.html">Read More</a>
+                                    <a class="link-underline" href="case-study-detail.php">Read More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
