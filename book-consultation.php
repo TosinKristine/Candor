@@ -19,7 +19,7 @@
                                     <a href="#">Home</a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact</a>
+                                    <a href="contact.php">Contact</a>
                                 </li>
                                 <li class="active">Book A Consultation</li>
                             </ol>
