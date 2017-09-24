@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </section>
-                 <div class="col-md-3 floater orange col-md-offset-9 fadeInLeft">
+                 <div class="col-md-3 floater orange col-md-offset-9  animated fadeInRight">
                     <p> " A Business Sage At Every Stage. "</h1>
 </div>
             <section class="section-snippet-services space--lg bg--white">
@@ -287,7 +287,7 @@
                     </div>
                 </div>
             </section>
-            <div class="notification pos-right pos-bottom col-sm-7 col-md-3" data-animation="from-right" data-autoshow="2ß00">
+          <!--  <div class="notification pos-right pos-bottom col-sm-7 col-md-3" data-animation="from-right" data-autoshow="2ß00">
                 <div class="boxed boxed--sm bg--white">
                     <p>
                         Hey there, Welcome To Candor
@@ -303,20 +303,21 @@
                         </span>
                     </a>
                 </div>
-            </div>
+            </div>-->
             <div class="notification pos-right pos-bottom col-md-4 col-sm-6" data-animation="from-bottom" data-notification-link="signup">
                 <div class="newsletter-form boxed bg--white box-shadow text-center mb--0">
+                <img alt="Ribbon" src="img/ribbon.png" class="newsletter-form__ribbon">
                     <div class="icon-title">
-                        <span class="h6">Newsletter</span>
+                        <span class="h6">Drop</span>
                         <i class="icon-envelope icon"></i>
-                        <span class="h6">Subscription</span>
+                        <span class="h6">Your Email</span>
                     </div>
                     <p class="lead">
-                        Subscribe to our monthly newsletter for news updates and useful resources.
+                      We'll Contact You.
                     </p>
                     <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
-                        <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <form action="#" method="post" id="" name="" class="validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
 
 
@@ -332,10 +333,10 @@
                                 </div>
                                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                 <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                    <input type="text" name="b_77142ece814d3cff52058a51f_df87841c5e" tabindex="-1" value="">
+                                    <input type="text" name="" tabindex="-1" value="">
                                 </div>
                                 <div class="clear">
-                                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                    <input type="submit" value="Drop Email" name="subscribe" id="" class="button">
                                 </div>
                             </div>
                         </form>
