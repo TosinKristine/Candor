@@ -31,7 +31,7 @@
                 </div>
             </section>
                  <div class="col-md-3 floater orange col-md-offset-9  animated fadeInRight">
-                    <p> " A Business Sage At Every Stage. "</h1>
+                    <p> "A Business Sage At Every Stage."</p>
 </div>
             <section class="section-snippet-services space--lg bg--white">
             <div class="container">
