@@ -52,7 +52,7 @@
                 <div class="col-sm-12 text-center">
                     <p class="lead">
                         Candor is a hollistic business services company, offering Human Resource 
-                        <br class="hidden-xs" /> and Busness management service, tos businesses great and small.
+                        <br class="hidden-xs" /> and Busness management service, to businesses great and small.
                     </p>
                 </div>
             </div>
