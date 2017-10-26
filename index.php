@@ -61,8 +61,8 @@
                 <div class="col-sm-6">
                     <div class="hover-element service-element hover--active">
                         <div class="hover-element__initial">
-                            <h3>Tax Advice
-                                <br /> and Management</h3>
+                            <h3>Human Resource 
+                                <br />Management</h3>
                             <p>
                                 The burden of managing finances can stop a small
                                 <br class="hidden-xs hidden-sm" /> business in its tracks - that’s where Candor comes in.
@@ -79,8 +79,8 @@
                 <div class="col-sm-6">
                     <div class="hover-element service-element hover--active">
                         <div class="hover-element__initial">
-                            <h3>Business Growth
-                                <br /> Advice and Strategy</h3>
+                            <h3>Business Development
+                                <br /> and Strategy</h3>
                             <p>
                                 We assist you to achieve growth by carefully planning
                                 <br class="hidden-xs hidden-sm" /> a dynamic business strategy plan.
@@ -125,24 +125,28 @@
                         <i class="icon-quote icon"></i>
                         <span class="h6">At Every Stage</span>
                     </div>
-                    <h3>A Partner for every business</h3>
+                    <h3>Candor is a partner for every business</h3>
                     <p>
-                        At Candor, we understand that all businesses are in different stages of development - that’s why we tailor all our services to the pertinent needs of your business; no one size fits all solutions here.
+                        At Candor, ........
                     </p>
                     <div class="boxed-holder text-center">
                         <div class="boxed boxed--border">
                             <i class="icon icon--sm icon-anchor"></i>
-                            <span>Establishment</span>
+                            <span>Competitive & Winning Spirit</span>
                         </div>
                         <!--end of box-->
                         <div class="boxed boxed--border">
                             <i class="icon icon--sm icon-speedometer"></i>
-                            <span>Growth</span>
+                            <span>Open-mindedness </span>
                         </div>
                         <!--end of box-->
                         <div class="boxed boxed--border">
                             <i class="icon icon--sm icon-strategy"></i>
-                            <span>Expansion</span>
+                            <span>Open-mindedness </span>
+                        </div>
+                        <div class="boxed boxed--border">
+                            <i class="icon icon--sm icon-strategy"></i>
+                            <span>Simplicity</span>
                         </div>
                         <!--end of box-->
                     </div>
@@ -179,7 +183,7 @@
                     </p>
                     <img class="col-sm-4 col-xs-5" alt="image" src="img/signature.png" />
                     <h5>
-                        Jonathan Collins - CEO
+                        Akanimo Ekong - CEO
                     </h5>
                 </div>
             </div>

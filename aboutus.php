@@ -46,14 +46,15 @@
                     <!--end of row-->
                     <div class="row">
                         <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1">
-                            <p>
-                                Candor removes the hassle and confusion that comes from managing your tax burden effectively. Our tax services range from discrete, one-time advice to complete management and everywhere in between. Our advisors can help you to accurately lodge personal returns and Business Activity Statements (BAS) and manage dealings with the ATO on your behalf. For over 20 years Partner has been teaming with businesses Australia-wide to achieve better results
-                            </p>
+                           <h3>Our Mission</h3>
+                        <h5>
+                        “To empower individuals and organizations for effectiveness”  </p>
+                        <h5>
                         </div>
                         <div class="col-md-4 col-sm-5">
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals from diverse tax environments to ensure we deliver the most relevant and beneficial tax advice for your business.
-                            </p>
+                        <h3>Our Vision</h3>
+                            <h5>
+                            "To be the leading practical solution provider for African businesses."</h5>
                         </div>
                     </div>
                     <!--end of row-->
@@ -61,8 +62,8 @@
                         <div class="col-sm-12 text-center">
                             <blockquote>
                                 “Candor’s vision remains unchanged -
-                                <br class="hidden-xs" /> To be the most inclusive financial services
-                                <br class="hidden-xs" /> offering in Melbourne.”
+                                <br class="hidden-xs" /> To be ................
+                                <br class="hidden-xs" /> offering in Nigeria.”
                             </blockquote>
                             <hr>
                         </div>
@@ -80,7 +81,7 @@
                                 <i class="icon icon-compass"></i>
                                 <div>
                                     <div class="col-sm-6 text-center">
-                                        <h2>Inclusivity</h2>
+                                        <h2>Simplicity</h2>
                                         <p>
                                             Our doors are open to all businesses -
                                             <br class="hidden-xs" /> the diversity of our client base makes us
@@ -88,7 +89,7 @@
                                         </p>
                                     </div>
                                     <div class="col-sm-6 text-center">
-                                        <h2>Integrity</h2>
+                                        <h2>Open - Mindedness</h2>
                                         <p>
                                             We believe strong business relationships
                                             <br class="hidden-xs" /> are founded on honest and transparent
@@ -96,14 +97,14 @@
                                         </p>
                                     </div>
                                     <div class="col-sm-6 text-center">
-                                        <h2>Innovation</h2>
+                                        <h2>.......</h2>
                                         <p>
                                             Our ever-evolving approach to problem
                                             <br class="hidden-xs" /> solving yields results and sets us apart
                                             <br class="hidden-xs" /> from the pack. </p>
                                     </div>
                                     <div class="col-sm-6 text-center">
-                                        <h2>Clarity</h2>
+                                        <h2>Simplicity</h2>
                                         <p>
                                             Relevant and precise communication
                                             <br class="hidden-xs" /> enriches our client relationships and
@@ -116,100 +117,7 @@
                     </div>
                 </div>
         </section>
-        <section class="section-team-large">
-            <div class="container">
-                <div class="row">
-                    <div class="icon-title">
-                        <span class="h6">Business Wisdom</span>
-                        <i class="icon-globe icon"></i>
-                        <span class="h6">At Your Disposal</span>
-                    </div>
-                </div>
-                <!--end of row-->
-                <div class="row">
-                    <div class="team-member team-member--large">
-                        <div class="col-md-5 col-md-offset-1 col-sm-7 text-center">
-                            <img alt="Image" src="img/team1.jpg" />
-                        </div>
-                        <div class="col-md-4 col-sm-5">
-                            <h4>Jonathan Collins</h4>
-                            <span class="team-member__role">CEO / Senior Partner</span>
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals.
-                            </p>
-                            <a href="#" class="link-underline">john@Candorfinancial.net</a>
-                        </div>
-                    </div>
-                    <!--end of large team member-->
-                    <div class="team-member team-member--large">
-                        <div class="col-md-5 col-md-push-6 col-sm-7 text-center">
-                            <img alt="Image" src="img/team2.jpg" />
-                        </div>
-                        <div class="col-md-4 col-md-pull-6 col-sm-5 col-md-offset-2">
-                            <h4>Anne Kilgour</h4>
-                            <span class="team-member__role">Senior Partner / Business Strategist</span>
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals.
-                            </p>
-                            <a href="#" class="link-underline">anne@Candorfinancial.net</a>
-                        </div>
-                    </div>
-                    <!--end of large team member-->
-                </div>
-                <!--end of row-->
-            </div>
-            <!--end of container-->
-        </section>
-        <section class="section-team-small">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h3>Meet our business experts</h3>
-                    </div>
-                </div>
-                <!--end of row-->
-                <div class="row">
-                    <div class="col-sm-4 col-xs-6">
-                        <div class="team-member team-member--small">
-                            <img alt="Image" src="img/team3.jpg" />
-                            <h4>Luke Slater</h4>
-                            <span class="team-member__role">Business Growth Expert</span>
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals.
-                            </p>
-                            <a href="#" class="link-underline">luke@Candorfinancial.net</a>
-                        </div>
-                        <!--end of small team member-->
-                    </div>
-                    <div class="col-sm-4 col-xs-6">
-                        <div class="team-member team-member--small">
-                            <img alt="Image" src="img/team4.jpg" />
-                            <h4>Kelly Barber</h4>
-                            <span class="team-member__role">Senior Tax Advisor</span>
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals.
-                            </p>
-                            <a href="#" class="link-underline">kelly@Candorfinancial.net</a>
-                        </div>
-                        <!--end of small team member-->
-                    </div>
-                    <div class="col-sm-4 col-xs-6">
-                        <div class="team-member team-member--small">
-                            <img alt="Image" src="img/team5.jpg" />
-                            <h4>Elizabeth Pierce</h4>
-                            <span class="team-member__role">Senior Strategy Advisor</span>
-                            <p>
-                                Candor advisors bring their wealth of knowledge and wisdom gained through years of experience to assist your business in a precise and measured manner. Our team comprises business owners, former ATO auditors and professionals.
-                            </p>
-                            <a href="#" class="link-underline">liz@Candorfinancial.net</a>
-                        </div>
-                        <!--end of small team member-->
-                    </div>
-                </div>
-                <!--end of row-->
-            </div>
-            <!--end of container-->
-        </section>
+      
         <section class="imagebg image--light gradient--bg-fade section-cta-bottom background--top">
             <div class="background-image-holder">
                 <img alt="image" src="img/about2.jpg" />
