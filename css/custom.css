@@ -84,3 +84,6 @@ background-color:#fa8c28
 input, .input-select{
     width:80%;
 }
+.small{
+    font-size: .9em !important;
+}

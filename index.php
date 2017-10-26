@@ -8,7 +8,7 @@
            <?php include "includes/nav.php"?>
         </div>
         <div class="main-container">
-        <section class="imagebg height-100 section-hero-1 bg-white" data-overlay="4">
+        <section class="imagebg height-100 section-hero-1 bg-white" data-overlay="4"  data-tooltip="Welcome!">
         <div class="background-image-holder">
             <img alt="image" src="img/home1.jpg" />
         </div>
@@ -38,7 +38,7 @@
             </div>
         </div>
     </section>
-    <section class="section-snippet-services">
+    <section class="section-snippet-services"  data-tooltip="Our Services">
         <div class="container">
             <div class="row">
                 <div class="icon-title">
@@ -51,8 +51,8 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <p class="lead">
-                        Candor is a hollistic business services company offering financial advice
-                        <br class="hidden-xs" /> and management to Melbourne businesses great and small.
+                        Candor is a hollistic business services company, offering Human Resource 
+                        <br class="hidden-xs" /> and Busness management service, tos businesses great and small.
                     </p>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                                 The burden of managing finances can stop a small
                                 <br class="hidden-xs hidden-sm" /> business in its tracks - that’s where Candor comes in.
                             </p>
-                            <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                            <a class="link-underline" href="services.php">Tell Me More</a>
                         </div>
                         <div class="hover-element__reveal" data-overlay="7">
                             <div class="background-image-holder">
@@ -85,7 +85,7 @@
                                 We assist you to achieve growth by carefully planning
                                 <br class="hidden-xs hidden-sm" /> a dynamic business strategy plan.
                             </p>
-                            <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                            <a class="link-underline" href="services.php">Tell Me More</a>
                         </div>
                         <div class="hover-element__reveal" data-overlay="7">
                             <div class="background-image-holder">
@@ -110,60 +110,121 @@
         </div>
         <!--end of container-->
     </section>
-    <section class="section-snippet-benefits imageblock bg--secondary">
-        <div class="imageblock__content col-md-5 col-sm-3 pos-right hidden-xs">
-            <div class="background-image-holder">
-                <img alt="image" src="img/home2.jpg" />
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-8 text-center">
-                    <div class="icon-title">
-                        <span class="h6">A Business Sage</span>
-                        <i class="icon-quote icon"></i>
-                        <span class="h6">At Every Stage</span>
+    <section class="section-snippet-benefits-2 space--even bg--primary section--pullup"  data-tooltip="Our Core Values">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h3>Our Guiding Principles & Values</h3>
+                        </div>
                     </div>
-                    <h3>Candor is a partner for every business</h3>
-                    <p>
-                        At Candor, ........
-                    </p>
-                    <div class="boxed-holder text-center">
-                        <div class="boxed boxed--border">
-                            <i class="icon icon--sm icon-anchor"></i>
-                            <span>Competitive & Winning Spirit</span>
+                    <!--end of row-->
+                    <div class="row">
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <div class="tabs-container">
+                                <ul class="tabs text-center">
+                                    <li class="active">
+                                        <div class="tab__title">
+                                            <i class="icon icon--sm icon-browser small"></i>
+                                            <h4>Competitive & Winning Spirit</h6>
+                                        </div>
+                                        <div class="tab__content text-center">
+                                            <p>
+                                            We work with passion & enthusiasm.  We collaborate seamlessly to get the work done.  We don’t give up easily – no matter the opposition or obstacle
+             </div>
+                                    </li>
+                                    <li>
+                                        <div class="tab__title">
+                                            <i class="icon icon--sm icon-telescope small"></i>
+                                            <h4>Open-mindedness</h4>
+                                        </div>
+                                        <div class="tab__content text-center">
+                                            <p>
+                                        We think broadly, deliberate options and consider alternatives.  We don’t say ‘it can’t be done’ – easily.
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="tab__title">
+                                            <i class="icon icon--sm icon-linegraph small"></i>
+                                            <h4>Open-mindedness</h4>
+                                        </div>
+                                        <div class="tab__content text-center">
+                                            <p>
+                                            we work hard & play hard.  We strive to impact society, live healthy, prioritize family time and serve God.  We celebrate achievements, commend good effort, learn from our mistakes and don’t hesitate to correct unacceptable behavior & results
+                                         </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="tab__title">
+                                            <i class="icon icon--sm icon-linegraph small"></i>
+                                            <h4>Simplicity</h4>
+                                        </div>
+                                        <div class="tab__content text-center">
+                                            <p>
+                                            No frills, no jargon. We communicate clearly and succinctly.   Not striving to impress, only committed to deliver.    </p>
+                                            </p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--end of tabs container-->
+                            <hr>
                         </div>
-                        <!--end of box-->
-                        <div class="boxed boxed--border">
-                            <i class="icon icon--sm icon-speedometer"></i>
-                            <span>Open-mindedness </span>
-                        </div>
-                        <!--end of box-->
-                        <div class="boxed boxed--border">
-                            <i class="icon icon--sm icon-strategy"></i>
-                            <span>Open-mindedness </span>
-                        </div>
-                        <div class="boxed boxed--border">
-                            <i class="icon icon--sm icon-strategy"></i>
-                            <span>Simplicity</span>
-                        </div>
-                        <!--end of box-->
                     </div>
-                    <!--end boxed holder-->
-                    <a href="aboutus.php" class="btn">
-                        <span class="btn__text">
-                            Meet the business experts
-                        </span>
-                        <i class="ion-arrow-right-c"></i>
-                    </a>
+                    <!--end of row-->
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <a href="services.php" class="btn btn--white btn--unfilled">
+                                <span class="btn__text">
+                                    View All Services
+                                </span>
+                                <i class="ion-arrow-right-c"></i>
+                            </a>
+                            <a href="#enquiry" class="btn btn--white btn--transparent">
+                                <span class="btn__text">
+                                    Make An Enquiry
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <!--end of row-->
                 </div>
-            </div>
-            <!--end of row-->
-        </div>
-        <!--end of container-->
-    </section>
-    <section class="imageblock section-snippet-about">
+                <!--end of container-->
+            </section>
+            <section id="#enquiry" data-tooltip="Make Enquiry">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                            <div class="newsletter-form boxed bg--white box-shadow text-center">
+                                <img alt="Ribbon" src="img/ribbon.png" class="newsletter-form__ribbon" />
+                                <div class="icon-title">
+                                    <span class="h6">Talk To</span>
+                                    <i class="icon-envelope icon"></i>
+                                    <span class="h6">Candor</span>
+                                </div>
+                                <p class="lead">
+                                    How can Candor assist your business?
+                                    <br class="hidden-sm hidden-xs" /> <small> Drop Your Email, and we'll reach you</small>.
+                                </p>
+                                <form action="http://mrareco.createsend.com/t/d/s/dyikkh/" class="no-labels" method="post" id="subForm">
+                                    <p>
+                                        <label for="fieldEmail">Email</label>
+                                        <br />
+                                        <input id="fieldEmail" name="cm-dyikkh-dyikkh" type="email" required />
+                                    </p>
+                                    <p>
+                                        <button type="submit">Subscribe to Newsletter</button>
+                                    </p>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
+ 
+    <section class="imageblock section-snippet-about" data-tooltip="More on Us">
         <div class="imageblock__content col-md-6 pos-left hidden-sm hidden-xs allow-overflow">
             <img alt="image" src="img/home3.png" />
         </div>
@@ -191,7 +252,7 @@
         </div>
         <!--end of container-->
     </section>
-    <section class="section-snippet-case-studies">
+    <section class="section-snippet-case-studies" data-tooltip="Case Studies">
         <div class="container">
             <div class="row">
                 <div class="icon-title">
@@ -263,7 +324,7 @@
         </div>
         <!--end of container-->
     </section>
-    <section class="imagebg image--light gradient--bg-fade section-cta-bottom background--bottom">
+    <section class="imagebg image--light gradient--bg-fade section-cta-bottom background--bottom" data-tooltip="Talk To Us">
         <div class="background-image-holder animation--zoom">
             <img alt="image" src="img/home4.jpg" />
         </div>
@@ -274,7 +335,7 @@
                         Ready to reach higher in business?
                     </h2>
                     <p>
-                        Financial management and much more - speak to a Candor associate today.
+                        Human Resource Management and much more - speak to a Candor personnel today.
                     </p>
                     <a href="contact-book-consultation.php" class="btn">
                         <span class="btn__text">

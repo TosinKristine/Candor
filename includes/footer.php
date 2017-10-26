@@ -12,9 +12,12 @@
                         <div class="col-sm-4">
                             <p>
                                 <strong>Candor Consulting</strong>
-                                <br /> 1420 Seargants Road
-                                <br /> North Carlton
-                                <br /> Victoria 3433
+                                <address>
+                                Plot 13A Walter Carrington Avenue
+                                <br /> Victoria Island,
+                                <br /> Ikoyi, 
+                                <br /> Lagos, Nigeria
+                            </address>
                             </p>
                         </div>
 

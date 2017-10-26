@@ -33,7 +33,7 @@
                 </div>
                 <!--end of container-->
             </section>
-            <section>
+            <section style="background:rgba(242, 243, 244, 0.32)!important">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
@@ -81,7 +81,6 @@
                                     <p>At Candor, we believe that a number of company processes and activities – e.g payroll, exit interviews, relocation, etc, can be outsourced, thereby freeing you up to face your core activities. 
                                     <br class="hidden-xs hidden-sm" />   We can also provide HR, Project and IT staff to your organization on a quarterly, annual or multi-year basis
                                      </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -99,7 +98,6 @@
                                     <br class="hidden-xs hidden-sm" />  Our team has a wealth of experience in networking, security and collaboration systems
                                  </p>
                                  <br/>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -116,7 +114,6 @@
                                 <p>
                                 We provide a listening ear, in a non-judgmental, ‘safe’ environment in dealing with all manners of client experiences - grief, offences, depression, anger, relationships and youth counseling
                                  </p>
-                                <a class="link-underline" href="service-detail.php">Tell Me More</a>
                            </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -132,10 +129,7 @@
                                     <h3>Coaching</h3>
                                     <p>
                                    Our team of qualified coaches provide Executive and Life coaching support to help individuals achieve results – in their personal lives or business environment. 
-                                 <br class="hidden-xs hidden-sm" />
-                                   Coaching sessions are flexible and take place in-person or remotely, ranging from 3-12 months.
-                                 </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                               </p>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -152,9 +146,7 @@
                                     <p>
                                    Our team of qualified coaches provide Executive and Life coaching support to help individuals achieve results – in their personal lives or business environment. 
                                  <br class="hidden-xs hidden-sm" />
-                                   Coaching sessions are flexible and take place in-person or remotely, ranging from 3-12 months.
-                                 </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                                </p>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -171,8 +163,7 @@
                                     <p>
                                     We facilitate, highly engaging, laser-focused strategy and team building workshops for senior leaders.   <br class="hidden-xs hidden-sm" />
                                     These 1-2 day offsite retreats allow senior leaders to brainstorm on strategic alternatives or visioning & values.   <br class="hidden-xs hidden-sm" />
-                                    Other sessions facilitate the setting of annual goals, resolution of political bottlenecks/conflicts and enhancement of team collaboration.                </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                                    Other sessions facilitate the setting of annual goals, resolution of political bottlenecks/conflicts and enhancement of team collaboration.                 </p>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -189,7 +180,6 @@
                                     <p>
                                     We diagnose and implement simple but powerful tools to help organizations address issues around reward, measurement, structure, roles & reporting, culture, alignment and execution  <br class="hidden-xs hidden-sm" />
                                 </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -208,7 +198,6 @@
                                  <br class="hidden-xs hidden-sm" />
                                    Coaching sessions are flexible and take place in-person or remotely, ranging from 3-12 months.
                                  </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">

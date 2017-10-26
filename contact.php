@@ -40,12 +40,12 @@
                         <div class="col-md-5 col-sm-6">
                             <img alt="Image" src="img/contact1.jpg" />
                             <address>
-                                Candor Consulting Pty Ltd
-                                <br /> 1420 Seargents Avenue
-                                <br /> Suite 904 - 920
-                                <br /> Carlton, Victoria 3342
+                                plot 13A Walter Carrington Avenue
+                                <br /> Victoria Island,
+                                <br /> Ikoyi, 
+                                <br /> Lagos, Nigeria
                             </address>
-                            <h3>hello@candorconsulting.net
+                            <h3>hello@candorconsulting.com
                                 <br /> (03) 9822 1470
                             </h3>
                         </div>

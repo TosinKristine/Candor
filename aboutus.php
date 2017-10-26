@@ -45,29 +45,20 @@
                     </div>
                     <!--end of row-->
                     <div class="row">
-                        <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1">
+                        <div class="col-md-8 col-md-offset-2">
                            <h3>Our Mission</h3>
                         <h5>
                         “To empower individuals and organizations for effectiveness”  </p>
                         <h5>
                         </div>
-                        <div class="col-md-4 col-sm-5">
+                        <div class="col-md-8 col-md-offset-2">
                         <h3>Our Vision</h3>
                             <h5>
                             "To be the leading practical solution provider for African businesses."</h5>
                         </div>
                     </div>
                     <!--end of row-->
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <blockquote>
-                                “Candor’s vision remains unchanged -
-                                <br class="hidden-xs" /> To be ................
-                                <br class="hidden-xs" /> offering in Nigeria.”
-                            </blockquote>
-                            <hr>
-                        </div>
-                    </div>
+                    
                     <!--end of row-->
                 </div>
                 <!--end of container-->
@@ -80,36 +71,35 @@
                                 <h6>Our Guiding Principles</h6>
                                 <i class="icon icon-compass"></i>
                                 <div>
-                                    <div class="col-sm-6 text-center">
-                                        <h2>Simplicity</h2>
+                                    <div class="col-sm-6 text-center" style="height:300px!important">
+                                        <h3>Competitive & Winning Spirit</h3>
                                         <p>
-                                            Our doors are open to all businesses -
-                                            <br class="hidden-xs" /> the diversity of our client base makes us
-                                            <br class="hidden-xs" /> better at what we do.
-                                        </p>
+                                            We work with passion & enthusiasm.  We collaborate seamlessly to get the work done. 
+                                            <br/>
+                                             We don’t give up easily – no matter the opposition or obstacle.
+                                    </p>
                                     </div>
-                                    <div class="col-sm-6 text-center">
-                                        <h2>Open - Mindedness</h2>
+                                    <div class="col-sm-6 text-center" style="height:300px!important">
+                                        <h3>Open - Mindedness</h3>
                                         <p>
-                                            We believe strong business relationships
-                                            <br class="hidden-xs" /> are founded on honest and transparent
-                                            <br class="hidden-xs" /> practice.
-                                        </p>
+                                        we think broadly, deliberate options and consider alternatives. 
+                                         <br class="hidden-xs" /> 
+                                         We don’t say ‘it can’t be done’ – easily.
+                                         </p>
                                     </div>
-                                    <div class="col-sm-6 text-center">
+                                    <div class="col-sm-6 text-center" style="height:300px!important">
                                         <h2>.......</h2>
                                         <p>
-                                            Our ever-evolving approach to problem
-                                            <br class="hidden-xs" /> solving yields results and sets us apart
-                                            <br class="hidden-xs" /> from the pack. </p>
+                                        We work hard & play hard.  We strive to impact society, live healthy, prioritize family time and serve God.  
+                                        <br class="hidden-xs" />   We celebrate achievements, commend good effort, learn from our mistakes and don’t hesitate to correct unacceptable behavior & results
+                                        <br/>
                                     </div>
-                                    <div class="col-sm-6 text-center">
+                                    <div class="col-sm-6 text-center" style="height:300px!important">
                                         <h2>Simplicity</h2>
                                         <p>
-                                            Relevant and precise communication
-                                            <br class="hidden-xs" /> enriches our client relationships and
-                                            <br class="hidden-xs" /> builds better businesses.
-                                        </p>
+                                        Simplicity – no frills, no jargon. We communicate clearly and succinctly.  
+                                        <br class="hidden-xs" />   Not striving to impress, only committed to deliver. 
+                                          </p>
                                     </div>
                                 </div>
                             </div>

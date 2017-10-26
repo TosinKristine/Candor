@@ -45,7 +45,6 @@
                                         The burden of managing finances can stop a small
                                         <br class="hidden-xs hidden-sm" /> business in its tracks - that’s where Partner comes in.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -64,7 +63,6 @@
                                         We assist you to achieve growth by carefully planning
                                         <br class="hidden-xs hidden-sm" /> a dynamic business strategy plan.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -83,7 +81,6 @@
                                         Whether you're transitioning to becoming a company
                                         <br class="hidden-xs hidden-sm" /> or already established, we can help.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -102,7 +99,6 @@
                                         Securing your financial future is an essential compoenent
                                         <br class="hidden-xs hidden-sm" /> of good business &mdash; Partner have the know-how.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -121,7 +117,6 @@
                                         Buying and selling a business can be a complex and
                                         <br class="hidden-xs hidden-sm" /> convoluted process. We help cut through the red-tape.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -140,7 +135,6 @@
                                         Making a splash in business requires the right equipment.
                                         <br class="hidden-xs hidden-sm" /> Partner can help secure the right loan for you.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">

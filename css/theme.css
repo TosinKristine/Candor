@@ -792,7 +792,7 @@ a {
   background: #f2f3f4;
 }
 .bg--secondary {
-  background: #e9ebee;
+  background:rgba(233, 235, 238, 0.28)
 }
 .bg--primary {
   background: #008c74;
@@ -3189,11 +3189,11 @@ hr {
 }
 /**! Theme - Common Elements **/
 body {
-  background: #f2f3f4;
+  background: #fff;
 }
 section {
   position: relative;
-  background: #f2f3f4;
+  background: rgba(242, 243, 244, 0.32);
 }
 @media all and (min-width: 768px) {
   section.space--even {
