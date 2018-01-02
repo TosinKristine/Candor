@@ -1144,7 +1144,7 @@ nav {
   line-height: 97px;
 }
 .nav-bar .logo {
-  max-height: 30%;
+  max-height: 100%;
   margin: 0;
 }
 .nav-bar .nav-module {

@@ -37,7 +37,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Employee Recruitment</h3>
                                     <p>
@@ -45,7 +45,7 @@
                                     <br class="hidden-xs hidden-sm" />
                                       Where necessary, we will set up assessment centres, administer behavioural tests and run background checks.
                                     </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                                  
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -56,7 +56,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Employee Trainings</h3>
                                     <p>
@@ -64,7 +64,7 @@
                                      Indeed our classes are practical and fun, but we work assiduously to ensure that our participants get back to their environments – and start doing something new or stop doing something old - even if it is ONE thing
 
                                 </p>
-                                    <a class="link-underline" href="service-detail.php">Tell Me More</a>
+                                  
                                 </div>
                                 <div class="hover-element__reveal" data-overlay="7">
                                     <div class="background-image-holder">
@@ -75,7 +75,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Outsourcing</h3>
                                     <p>At Candor, we believe that a number of company processes and activities – e.g payroll, exit interviews, relocation, etc, can be outsourced, thereby freeing you up to face your core activities. 
@@ -91,7 +91,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>IT Consulting</h3>
                                     <p>We support clients in defining & scoping IT requirements, building out RFP’s and making analytical and objective recommendations.  
@@ -108,7 +108,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                 <h3>Counselling</h3>
                                 <p>
@@ -124,7 +124,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Coaching</h3>
                                     <p>
@@ -140,7 +140,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Business Process Improvement</h3>
                                     <p>
@@ -157,7 +157,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Workshops & Retreats</h3>
                                     <p>
@@ -174,7 +174,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Performance Consulting</h3>
                                     <p>
@@ -190,7 +190,7 @@
                             <!--end of service-->
                         </div>
                         <div class="col-sm-6">
-                            <div class="hover-element service-element">
+                            <div class="hover-element service-element hover--active">
                                 <div class="hover-element__initial">
                                     <h3>Performance & Service Desk Applications</h3>
                                     <p>
